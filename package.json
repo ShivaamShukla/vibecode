@@ -64,8 +64,6 @@
   "overrides": {
   "next": "^15.3.8",
   "zod": "3.22.4"
-}
-
 },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
